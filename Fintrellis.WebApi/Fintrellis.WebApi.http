@@ -1,0 +1,7 @@
+﻿@Fintrellis.WebApi_HostAddress = http://localhost:5288
+
+GET {{Fintrellis.WebApi_HostAddress}}/product/
+Accept: application/json
+
+###
+

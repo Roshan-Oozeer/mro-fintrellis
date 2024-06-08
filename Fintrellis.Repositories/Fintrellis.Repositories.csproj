@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="8.0.6" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Fintrellis.Models\Fintrellis.Models.csproj" />
+    <ProjectReference Include="..\Fintrellis.Common\Fintrellis.Common.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="Common\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Common\" />
+  </ItemGroup>
+</Project>

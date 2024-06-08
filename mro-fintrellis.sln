@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.10
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintrellis.WebApi", "Fintrellis.WebApi\Fintrellis.WebApi.csproj", "{A4B7294F-F36F-41FD-8C72-48F2B993FDA1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintrellis.Models", "Fintrellis.Models\Fintrellis.Models.csproj", "{86D9B2AF-F1EC-4CD3-A5AB-9A03AF20A861}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintrellis.Repositories", "Fintrellis.Repositories\Fintrellis.Repositories.csproj", "{37D6350F-ADCF-478A-BD21-DC40B7D7173D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintrellis.Common", "Fintrellis.Common\Fintrellis.Common.csproj", "{B2CFC637-B120-40D6-99D9-C096AD6AE8E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F18D20A8-A31A-4BEE-B02E-67C6D9CFC864}"
+	ProjectSection(SolutionItems) = preProject
+		Read.me = Read.me
+		MS-DB.sql = MS-DB.sql
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fintrellis.UnitTests", "Fintrellis.UnitTests\Fintrellis.UnitTests.csproj", "{994F7A7C-B010-43A4-B98F-943B30DE3075}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4B7294F-F36F-41FD-8C72-48F2B993FDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4B7294F-F36F-41FD-8C72-48F2B993FDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4B7294F-F36F-41FD-8C72-48F2B993FDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4B7294F-F36F-41FD-8C72-48F2B993FDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86D9B2AF-F1EC-4CD3-A5AB-9A03AF20A861}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86D9B2AF-F1EC-4CD3-A5AB-9A03AF20A861}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86D9B2AF-F1EC-4CD3-A5AB-9A03AF20A861}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86D9B2AF-F1EC-4CD3-A5AB-9A03AF20A861}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37D6350F-ADCF-478A-BD21-DC40B7D7173D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37D6350F-ADCF-478A-BD21-DC40B7D7173D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37D6350F-ADCF-478A-BD21-DC40B7D7173D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37D6350F-ADCF-478A-BD21-DC40B7D7173D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2CFC637-B120-40D6-99D9-C096AD6AE8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2CFC637-B120-40D6-99D9-C096AD6AE8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2CFC637-B120-40D6-99D9-C096AD6AE8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2CFC637-B120-40D6-99D9-C096AD6AE8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{994F7A7C-B010-43A4-B98F-943B30DE3075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{994F7A7C-B010-43A4-B98F-943B30DE3075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{994F7A7C-B010-43A4-B98F-943B30DE3075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{994F7A7C-B010-43A4-B98F-943B30DE3075}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9FC611B-40E6-4664-A73C-436A1CBA8502}
+	EndGlobalSection
+EndGlobal
