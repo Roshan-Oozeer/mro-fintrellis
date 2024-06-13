@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fintrellis.webapi:
+    image: ${DOCKER_REGISTRY-}fintrellis
+    build:
+      context: .
+      dockerfile: Fintrellis.WebApi/Dockerfile

@@ -16,6 +16,7 @@ In our case, we have simplified the solution by collapsing the Data and Domain l
 - MS-SQL server was used as data storage.
 - The repository pattern was used for the Data Layer, and
 - Inheritance / Polymorphism used to make coding more simple and intuitive - Please see how the repositories and controllers were implemented.
+- Docker Support
 
 
 ## Getting started
@@ -23,7 +24,9 @@ First and foremost, the database must be constructed. In this solution, MS-SQL s
 
 
 ## Running the Solution
-The solution can be run within Visual Studio or VS Code.
+The solution can be run in 2 ways:
+1. Within Visual Studio or VS Code.
+2. The API can be accessed from a docker build.
 
 
 

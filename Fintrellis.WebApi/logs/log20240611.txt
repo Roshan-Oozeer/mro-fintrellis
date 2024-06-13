@@ -1,0 +1,12 @@
+2024-06-11 11:40:04.838 +02:00 [INF] Starting up the application
+2024-06-11 11:40:05.046 +02:00 [INF] Now listening on: http://localhost:5288
+2024-06-11 11:40:05.047 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-11 11:40:05.047 +02:00 [INF] Hosting environment: Development
+2024-06-11 11:40:05.047 +02:00 [INF] Content root path: /Users/roshanoozeer/Projects/Cloudzen/Fintrellis/mro-fintrellis/Fintrellis.WebApi
+2024-06-11 11:41:17.336 +02:00 [INF] Application is shutting down...
+2024-06-11 11:42:08.138 +02:00 [INF] Starting up the application
+2024-06-11 11:42:08.289 +02:00 [INF] Now listening on: http://localhost:5288
+2024-06-11 11:42:08.290 +02:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-06-11 11:42:08.290 +02:00 [INF] Hosting environment: Development
+2024-06-11 11:42:08.290 +02:00 [INF] Content root path: /Users/roshanoozeer/Projects/Cloudzen/Fintrellis/mro-fintrellis/Fintrellis.WebApi
+2024-06-11 11:42:11.515 +02:00 [INF] Application is shutting down...
